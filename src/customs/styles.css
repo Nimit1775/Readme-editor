@@ -1,0 +1,21 @@
+/* styles.css */
+.prose h1 {
+    color: #ff6347; /* Tomato color for H1 */
+  }
+  
+  .prose h2 {
+    color: #1e90ff; /* DodgerBlue color for H2 */
+  }
+  
+  .prose h3 {
+    color: #32cd32; /* LimeGreen color for H3 */
+  }
+  
+  .prose li {
+    color: #ffa500; /* Orange color for list items */
+  }
+  
+  .prose p {
+    color: #f0e68c; /* Khaki color for paragraphs */
+  }
+  
